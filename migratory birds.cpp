@@ -1,5 +1,5 @@
 
-/*DATE:21.09.26
+/*DATE:17.10.26
 PROBLEM LINK:https://www.hackerrank.com/challenges/migratory-birds/problem
 PROBLEM STATEMENT:Find the most frequently occurring bird type in an array.
 INSIGHTS GAIN FROM THIS QUESTION: The approach involves counting the occurrences of each bird type and finding the one with the highest count.
